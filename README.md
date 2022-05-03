@@ -4,13 +4,14 @@
 To Roll a Ball using C# program in unity .
 
 ## Algorithm:
-Step 1:
+
+###Step 1:
 Create New Scene on unity game engine.
 
-Step 2:
+###Step 2:
 Right click on Hierarchy create 3D Object.
 
-Step 3:
+###Step 3:
 Click Hierarchy -> 3DObject -> Sphere Hierarchy -> 3DObject -> plane Hierarchy.
 
 Step 4:
